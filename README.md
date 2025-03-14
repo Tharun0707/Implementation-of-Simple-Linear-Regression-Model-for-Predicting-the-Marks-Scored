@@ -67,30 +67,39 @@ print("Root Mean Square Error = ",rmse)
 ## Output:
 
 **HEAD**
+
 ![image](https://github.com/user-attachments/assets/171aeaf0-4ea5-4264-8c3c-76ac347abbd4)
 
 **TAIL**
+
 ![image](https://github.com/user-attachments/assets/c73dc8e8-7a93-4d90-9c94-46acbd70a75f)
 
 **ARRAY VALUE OF X**
+
 ![image](https://github.com/user-attachments/assets/ae076d3f-377d-4c02-9c7c-d971d914ff39)
 
 **ARRAY VALUE OF Y**
+
 ![image](https://github.com/user-attachments/assets/6e9fb846-6781-425c-81d0-0ec7ed2d0a5f)
 
 **VALUES OF Y PREDICTION**
+
 ![image](https://github.com/user-attachments/assets/b6cf8083-823e-4c99-9b0e-f76798dde8a1)
 
 **ARRAY VALUE OF Y TEST**
+
 ![image](https://github.com/user-attachments/assets/0281f60c-0393-482c-a930-547e89ccf3ae)
 
 **TRAINING SET GRAPH**
+
 ![image](https://github.com/user-attachments/assets/7c5a2d63-7cc4-4b65-9ade-08b92036ab63)
 
 **TEST SET GRAPH**
+
 ![image](https://github.com/user-attachments/assets/315f454d-e08c-4ee8-87f7-4f9cc1146768)
 
 **VALUES OF MSE, MAE AND RSME**
+
 ![image](https://github.com/user-attachments/assets/546780ad-5b2c-4908-ac4f-a886d2cdb2a4)
 
 
