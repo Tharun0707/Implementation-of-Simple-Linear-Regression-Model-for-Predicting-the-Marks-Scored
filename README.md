@@ -99,7 +99,6 @@ print("Root Mean Square Error = ",rmse)
 ![image](https://github.com/user-attachments/assets/315f454d-e08c-4ee8-87f7-4f9cc1146768)
 
 **VALUES OF MSE, MAE AND RSME**
-
 ![image](https://github.com/user-attachments/assets/546780ad-5b2c-4908-ac4f-a886d2cdb2a4)
 
 
